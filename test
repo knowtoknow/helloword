@@ -1,0 +1,8 @@
+/**
+ * Created by knowtoknow on 2017/3/24.
+ */
+public class Test {
+    public static void main(string[] args){
+            System.out.println("HelloWorld");
+    }
+}
